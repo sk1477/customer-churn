@@ -1,1 +1,2 @@
 # customer-churn
+This project examines customer churn and demographic patterns for a European bank, revealing that although most customers are from France, the highest churn risk is concentrated among senior female customers aged 45–60 from Germany with high product holdings, while younger French males under 30 with mid‑level product categories show significantly lower churn risk. These findings highlight the combined impact of geography, age, gender, and product engagement on churn behavior.
